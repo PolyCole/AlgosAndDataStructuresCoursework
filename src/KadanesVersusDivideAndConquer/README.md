@@ -1,4 +1,4 @@
-#Kadane's Algorithm vs. Recursive Divide and Conquer
+# Kadane's Algorithm vs. Recursive Divide and Conquer
 This assignment focused on observing the differences between kadane's algorithm and the recursive divide and conquer
 algorithm when dealing with the maximum subarray problem. 
 Since Kadane's algorithm runs in O(n) time, it will be faster than the recursive algorithm, as most iterative algorithms are.
