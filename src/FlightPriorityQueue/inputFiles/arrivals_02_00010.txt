@@ -1,0 +1,19 @@
+2
+Mohawk1660		1		27
+Eurolot8131		1		45
+Interflug1876		1		84
+NorskAir9586		1		99
+Mohawk4417		2		68
+AirIowa3156		3		52
+SNA244		3		84
+Mesaba9135		4		76
+Mesaba3154		5		12
+AmericaWest5542		6		28
+Republic2315		6		4
+National6647		7		78
+GreenlandExpress7753		8		46
+Eastern8056		8		91
+AirIowa4563		9		97
+FlyingFinn8057		10		8
+Western200		10		50
+Mohawk3806		10		64
